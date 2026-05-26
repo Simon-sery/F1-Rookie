@@ -1,9 +1,5 @@
 # F1-Rookie
 
-/* ===============================
-   F1 ROOKIE QUIZ - FINAL STYLE
-   =============================== */
-
 /* Her ændrer vi fonten på hele quizzen.
    Vi bruger vores Formula 1-font for at få quizzen
    til at passe bedre ind i F1 Rookie-designet. */
